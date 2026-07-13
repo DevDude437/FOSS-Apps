@@ -1,0 +1,4 @@
+# QUIK SMS
+Awesome SMS app
+
+https://github.com/quik-sms/quik
